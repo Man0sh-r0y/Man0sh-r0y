@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manash Roy</h1>
-<h3 align="center">I'm a CSE Undergrad Student. I Love Coding.</h3>
+<h3 align="center">I'm a CSE Student. I Love Coding.</h3>
 
 - 🔭 I’m currently working on **College Student**
 
