@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **College Student**
 
-- 🌱 I’m currently learning **C, Java, Python**
+- 🌱 I’m currently learning **Web Developement**
 
 - 👯 I’m looking to collaborate on **Creative Projects**
 
