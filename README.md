@@ -13,5 +13,5 @@ Skills:  HTML / CSS / JAVA / C / Python
 - ⚡ Fun fact: I think I'm Funny 
 
 
-[<img src='https://img.icons8.com/color-glass/512/github.png' alt='github' height='40'>](https://github.com/Man0sh-r0y)  [<img src='https://img.icons8.com/color/512/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manash-roy-6a28891b1/)  [<img src='https://img.icons8.com/color/512/twitter--v3.png' alt='twitter' height='40'>](https://twitter.com/@ManashR68994541)  
+[<img src='https://img.icons8.com/color-glass/512/github.png' alt='github' height='40'>](https://github.com/Man0sh-r0y)  [<img src='https://img.icons8.com/color/512/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manash-roy-6a28891b1/)  [<img src='https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/512/external-twitter-an-american-online-news-and-social-networking-service-logo-fresh-tal-revivo.png' alt='twitter' height='40'>](https://twitter.com/@ManashR68994541)  
 
