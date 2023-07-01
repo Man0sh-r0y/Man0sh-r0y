@@ -1,25 +1,32 @@
-<h1 align="center">Hi 👋, I'm Manash Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hello, I'm [Manash Roy]! 👋
 
-- 🌱 I’m currently learning **Full Stack Development**
+## About Me
+I am a passionate and dedicated software developer with a strong background in Computer Science Engineering. I am deeply interested in exploring the vast realm of technology and its applications in solving real-world problems. Coding is not just a profession for me, but a true passion that drives me to continuously learn and grow.
 
-- 💬 Ask me about **frontend**
+## Skills
+- 💻 Full Stack Development: Proficient in MERN stack (MongoDB, Express.js, React.js, Node.js) with hands-on experience in building dynamic web applications.
+- 🌐 Front-End Development: HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS.
+- 🔧 Tools & Technologies: VS Code, Git, Intellij IDEA, Arduino.
+- 📚 Programming Languages: C, C++, JavaScript, Python, Java.
+- 🛢️ Databases: MongoDB.
+- ⚙️ Frameworks: Tailwind CSS, React.Js, Node.js.
 
-- 📫 How to reach me **manashroy454@gmail.com**
+## Languages and Tools:
+- 💻 IDE: VS Code, Intellij IDEA, Arduino IDE.
+- 🔧 Version Control: Git, GitHub.
 
-- ⚡ Fun fact **I think I'm funny**
+## Interests
+I have a keen interest in exploring the field of Machine Learning and its potential to create intelligent and data-driven solutions. I am constantly seeking new challenges and opportunities to expand my skills and contribute to meaningful projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/man0shr0y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="man0shr0y" height="30" width="40" /></a>
-<a href="https://twitter.com/manashr68994541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manashr68994541" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manash-roy-6a28891b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manash-roy-6a28891b1/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@manash143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@manash143" height="30" width="40" /></a>
-</p>
+## Let's Connect
+I am always open to collaborating on exciting projects and learning from fellow developers. Let's connect and explore the possibilities together!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 📧 Email: [manashroy454@gmail.com]
+- 💼 LinkedIn: [Go to My Linkedin profile](https://www.linkedin.com/in/manash-roy-6a28891b1/)
+- 🐦 Twitter: [Go to my Twitter Profile](https://twitter.com/Man0sh_r0y)
+- 📝 Blog: [Go to My Blog page](https://techblogsbymanash.hashnode.dev/)
 
+Feel free to reach out and let's create something amazing together! 🚀✨
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manashroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manashroy" /></a></p><br><br>
 
