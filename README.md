@@ -16,9 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Man0sh-r0y&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Man0sh-r0y&icon=0&color=11)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manashroy) 
 
