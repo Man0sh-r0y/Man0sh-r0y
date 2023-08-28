@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi,%20I%20am%20Manash%20Roy%20👋&fontSize=60&theme=vision-friendly-dark&animation=fadeIn&fontAlign=50&fontAlignY=40)
+<!--![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi,%20I%20am%20Manash%20Roy%20👋&fontSize=60&theme=vision-friendly-dark&animation=fadeIn&fontAlign=50&fontAlignY=40)-->
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I%20am%20Manash%20Roy%20👋&text2=%20Full%20Stack%20Developer%20|%20DevOps%20|%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 # 💫 About Me:
@@ -17,14 +18,6 @@
 
 # 📊 GitHub Stats: 
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Man0sh-r0y&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Man0sh-r0y&layout=compact&theme=vision-friendly-dark)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Man0sh-r0y&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Man0sh-r0y&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Man0sh-r0y&theme=aura_dark)
 
@@ -32,7 +25,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Man0sh-r0y&theme=aura_dark&utcOffset=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Man0sh-r0y&theme=aura_dark)
-
 
 
 ## 💰 You can help me by Donating
