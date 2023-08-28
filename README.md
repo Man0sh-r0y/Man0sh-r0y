@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi,%20I%20am%20Manash%20Roy%20👋&fontSize=50&theme=vision-friendly-dark&animation=fadeIn&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi,%20I%20am%20Manash%20Roy%20👋&fontSize=60&theme=vision-friendly-dark&animation=fadeIn&fontAlign=50&fontAlignY=40)
 
 
 
