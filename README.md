@@ -21,13 +21,22 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallab-nandi&theme=tokyonight" width="400px" alt="pallab-nandi" /></p> -->
 
-<p ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Man0sh-r0y&theme=tokyonight" alt="Man0sh-r0y" /></p>
+<!--<p ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Man0sh-r0y&theme=tokyonight" alt="Man0sh-r0y" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Man0sh-r0y&theme=tokyonight" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Man0sh-r0y&theme=tokyonight" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Man0sh-r0y&theme=tokyonight" /></p> -->
+<!--[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Man0sh-r0y)](https://github.com/LordDashMe/github-contribution-stats/)-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Man0sh-r0y&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Man0sh-r0y&layout=compact&theme=vision-friendly-dark)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Man0sh-r0y&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manashroy) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manashroy) 
 
