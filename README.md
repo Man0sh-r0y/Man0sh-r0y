@@ -6,7 +6,12 @@
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Project Building<br>🌱 I’m currently learning Mern Stack Development<br>📫 How to reach me manashroy454@gmail.com<br>📝 I write articles on https://techblogsbymanash.hashnode.dev/<br>💬 Ask me anything about JavaSript or any tech-related stuff<br>😊 Pronouns: He/His<br>⚡ Fun fact: I am funny
+👯 I’m looking to collaborate on Project Building<br>
+🌱 I’m currently learning Mern Stack Development<br>
+📫 How to reach me manashroy454@gmail.com<br>
+📝 I write articles on https://techblogsbymanash.hashnode.dev/<br>
+💬 Ask me anything about JavaSript or any tech-related stuff<br>
+😊 Pronouns: He/His<br>⚡ Fun fact: I am funny
 
 
 ## 🌐 Socials:
