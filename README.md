@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi,%20I%20am%20Manash%20Roy%20👋&fontSize=60&theme=vision-friendly-dark&animation=fadeIn&fontAlign=50&fontAlignY=40)
+<!--![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Hi,%20I%20am%20Manash%20Roy%20👋&fontSize=60&theme=vision-friendly-dark&animation=fadeIn&fontAlign=50&fontAlignY=40)-->
 
-<!--[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I%20am%20Manash%20Roy%20👋&text2=%20Full%20Stack%20Developer%20|%20DevOps%20|%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)-->
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I%20am%20Manash%20Roy%20👋&text2=%20Full%20Stack%20Developer%20|%20DevOps%20|%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 # 💫 About Me:
