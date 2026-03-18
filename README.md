@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Project Building<br>
-🌱 I’m currently learning Mern Stack Development<br>
+🌱 I’m currently learning Cloud & DevOps<br>
 📫 How to reach me manash.roy.dev@gmail.com<br>
 
 💬 Ask me anything about JavaSript or any tech-related stuff<br>
